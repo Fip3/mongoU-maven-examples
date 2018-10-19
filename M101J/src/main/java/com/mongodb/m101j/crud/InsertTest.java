@@ -36,5 +36,6 @@ public class InsertTest {
     coll.insertMany(asList(smith, jones));
     printJson(smith);
     printJson(jones);
+    
   }
 }
